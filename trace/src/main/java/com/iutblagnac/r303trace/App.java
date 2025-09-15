@@ -14,8 +14,6 @@ public class App {
         return "Hello World!";
     }
 
-    //ajout depuis la branche helloWorld
-
     public static String hello(String param) {
         return param;
     }
