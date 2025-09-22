@@ -20,6 +20,10 @@ public class App {
         return param;
     }
 
+<<<<<<< hello_world_echo
     //ajout depuis la branche  hello_world_echo
+=======
+    
+>>>>>>> main
 
 }
